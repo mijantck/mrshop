@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422116626114",
+    "project_id": "mrshop-88ab9",
+    "storage_bucket": "mrshop-88ab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422116626114:android:4f7fdd3f6704be237ef55b",
+        "android_client_info": {
+          "package_name": "com.mrsoftit.mrshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422116626114-qikq2ve3us6bunkoilcavg099kkhomv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdHZs7NkrLsY4J3OALHCRjO6Du_fVaVtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422116626114-qikq2ve3us6bunkoilcavg099kkhomv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
